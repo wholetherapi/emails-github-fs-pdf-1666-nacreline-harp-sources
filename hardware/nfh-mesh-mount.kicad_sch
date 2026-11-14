@@ -1,0 +1,10 @@
+(kicad_sch (version 20230121) (generator eeschema)
+  (uuid a1c34f82-2d91-4d6b-9f21-8c7e3b5f2202)
+  (paper "A4")
+  (lib_symbols
+    (symbol "Connector:Mesh_Probe" (in_bom yes) (on_board yes))
+  )
+  (symbol (lib_id "Connector:Mesh_Probe") (at 50.8 55.88 0) (unit 1)
+    (property "Reference" "J1" (at 50.8 50.8 0))
+  )
+)
